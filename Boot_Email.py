@@ -32,7 +32,7 @@ def mail():
 
 if __name__ == '__main__':
     ret = mail()
-    if ret == False:
-        print('发送失败')
+    # if ret == False:
+    #     print('发送失败')
         
 
